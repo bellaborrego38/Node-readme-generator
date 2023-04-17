@@ -1,7 +1,7 @@
-# README Generator 
+# Javascript Password Generator 
   ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Description
-  This readme generator generates a professional readme file based off of the information that the user inputs when prompted the questions regarding the application repository and it was created using node JS and inquirer.
+  This is an application that an employee can use to generate a random password based on criteria they've selected. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code.
   ## Table of Contents
  
   * [Dependencies](#Dependencies)
@@ -10,11 +10,11 @@
   * [creator](#creator)
  
   ## Dependencies
-  inquirer 8.2.4
+  N/A
   ## Languages Associated:
-  JavaScript, NodeJS, Json, Makrkdown.
+  HTML, CSS, and JavaScript.
   ## Contributors:
-  no
+  Guidance from tutor Abduraghmaan Gabriels.
   ## Creator
-  visit [github/bellaborrego38](https://github.com/bellaborrego38).
+ [github/bellaborrego38](https://github.com/bellaborrego38)
   

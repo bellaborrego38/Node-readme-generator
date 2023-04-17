@@ -5,7 +5,6 @@ function renderLicenseBadge(license) {
     return "";
   }
   
-  //Creating a function to generate markdown for README
   function generateMarkdown(data) {
     return `# ${data.title} 
   ${renderLicenseBadge(data.license)}
@@ -25,7 +24,7 @@ function renderLicenseBadge(license) {
   ## Contributors:
   ${data.contributors}
   ## Creator
-  visit [github/${data.creator}](https://github.com/${data.creator}).
+ [github/${data.creator}](https://github.com/${data.creator})
   `;
   }
   

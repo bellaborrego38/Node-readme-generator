@@ -1,7 +1,8 @@
 const fs = require("fs");
 const inquirer = require("inquirer");
-const path = require("path");
 const generateMarkdown = require("./generateMarkdown");
+const path = require("path");
+
 
 
 const questions = [
@@ -45,10 +46,10 @@ const questions = [
         default:""
       },
      
-     
-      
     
 ];
+
+
 
 
 function writeToFile(fileName, data) {
@@ -65,5 +66,6 @@ function init() {
         writeToFile("./dist/README.md", generateMarkdown({ ...responses }));
     });
 }
+
 
 init();

@@ -17,7 +17,7 @@ A command-line application that dynamically generates a professional README.md f
   ## Languages Associated:
   JavaScript, NodeJS, Json, Markdown.
   ## Credit:
-  guidance from "dopedev" on youtube. 
+  Guidance from "DopeDev" on youtube. 
   ## Creator
   visit [github/bellaborrego38](https://github.com/bellaborrego38).
   
